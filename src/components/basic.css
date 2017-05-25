@@ -1,0 +1,19 @@
+
+.mainTop {
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.carousel {
+  width: 100%;
+  height: 400px;
+  margin-bottom: 10px;
+}
+.main {
+  width: 100%;
+}
+.contact {
+	font-size: 14px;
+	font-family: '宋体';
+	line-height: 25px;
+}
